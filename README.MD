@@ -2,7 +2,7 @@
 
 The official website of **Mumukshu Labs**, a student-led technology community based in Nepal.
 
-🌐 **Website:** https://labs.mumukshu.me/
+🌐 **Website:** https://mumukshulabs.com
 
 ## About Mumukshu Labs
 
@@ -28,7 +28,7 @@ Interested in becoming part of Mumukshu Labs?
 
 Visit our website to learn more and find ways to get involved.
 
-🌐 https://labs.mumukshu.me/
+🌐 https://mumukshulabs.com
 
 ## Contributing
 
